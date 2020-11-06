@@ -1,5 +1,5 @@
 import random
-def primary():
+def main():
 
   f = open("quotes.txt")
   quotes = f.readlines()
@@ -11,4 +11,4 @@ def primary():
   print(quotes[rnd], end = '')
 
 if __name__== "__main__":
-  primary()
+  main()
