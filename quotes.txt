@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Merrick sucks at programming
+Python whitespace is weird and annoying
+I added three new lines of quotes!
